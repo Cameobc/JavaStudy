@@ -1,4 +1,4 @@
-package com.oop.ch6;
+package com.ch6;
 
 public class StaticBlockTest {
     static int[] arr = new int[10];

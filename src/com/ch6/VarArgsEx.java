@@ -1,4 +1,4 @@
-package com.oop.ch6;
+package com.ch6;
 
 public class VarArgsEx {
     public static void main(String[] args) {
